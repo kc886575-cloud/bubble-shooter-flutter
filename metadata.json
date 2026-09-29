@@ -1,0 +1,6 @@
+{
+  "name": "Bubble Shooter",
+  "description": "Colorful arcade Bubble Shooter game with aiming guide, combos, sound effects, and high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
